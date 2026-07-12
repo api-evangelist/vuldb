@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://vuldb.com/?doc.api
 common:
+  - type: VulnerabilityDisclosure
+    url: security/vuldb-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/vuldb-domain-security.yml
   - type: Website
     url: https://vuldb.com/?doc.api
   - type: PublicAPIsListing
