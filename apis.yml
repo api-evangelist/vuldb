@@ -39,7 +39,6 @@ apis:
   - name: VulDB
     description: "VulDB API allows to initiate queries for one or more items along with transactional bots"
     humanURL: https://vuldb.com/?doc.api
-    baseURL: https://vuldb.com/?doc.api
     tags:
       - Security
     properties:
